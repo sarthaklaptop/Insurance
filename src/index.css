@@ -1,0 +1,10 @@
+@import url('https://api.fontshare.com/v2/css?f[]=general-sans@200,500,300,601,600,400,700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.background-green{
+  background-color: #0D4A31;
+}
